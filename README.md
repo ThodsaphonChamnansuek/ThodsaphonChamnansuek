@@ -47,19 +47,21 @@ Feel free to explore my repositories!
 
 ## 📜 Certifications
 
-- Certified SQL Developer – W3SCHOOL
-- Certified Python & R Developer – W3SCHOOL
+- [Certified SQL Developer – W3SCHOOL](https://verify.w3schools.com/1PT30R8XJL)
+- [Certified R Developer – W3SCHOOL](https://verify.w3schools.com/1PTM7OGV77)
+- [Certified Python Developer – W3SCHOOL](https://verify.w3schools.com/1PPO4S8TL2)
+- [Excel Certification – W3SCHOOL](https://verify.w3schools.com/1PMW1WQ2OH)
+- [Certified HTML Developer – W3SCHOOL](https://verify.w3schools.com/1POO5LNOBM)
 - Data Analyst Manifesto – Datarockie
-- Data Mining with RapidMiner
-- Python for Data Science – (Coming Soon!)
+
 
 ---
 
 ## 📬 Connect with Me
 
-- ✉️ Email: [thodsaphol.cha@gmail.com](mailto:thodsaphol.cha@gmail.com)
-- 💼 LinkedIn: *Coming Soon*
-- 🌐 Portfolio Website: *Coming Soon*
+- 📧 [Email](mailto:thodsaphol.cha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
+- 🌐 [myportfolio](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
 
 ---
 
