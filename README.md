@@ -37,7 +37,7 @@
 Here are a few project ideas and areas I'm exploring (some coming soon!):
 
 - 📈 Sales Dashboard with Power BI & Python
-- 🎮 Rock–Paper–Scissors Game with R + Shiny App
+- 🎮 Rock–Paper–Scissors Game with R
 - 📊 Data Cleaning & Visualization Projects using Kaggle datasets
 - 📁 Automated File Organizer using Python + Tkinter GUI
 
@@ -52,6 +52,7 @@ Feel free to explore my repositories!
 - [Certified Python Developer – W3SCHOOL](https://verify.w3schools.com/1PPO4S8TL2)
 - [Excel Certification – W3SCHOOL](https://verify.w3schools.com/1PMW1WQ2OH)
 - [Certified HTML Developer – W3SCHOOL](https://verify.w3schools.com/1POO5LNOBM)
+- [Certified PHP Developer – W3SCHOOL](https://verify.w3schools.com/1PRJCGYOZN)
 - Data Analyst Manifesto – Datarockie
 
 
