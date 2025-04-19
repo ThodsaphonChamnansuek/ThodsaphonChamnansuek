@@ -2,7 +2,7 @@
 
 🎓 A passionate and self-motivated Data Science & Analytics student based in Bangkok, Thailand.
 
-🌱 Currently studying B.B.A. in Digital Business Information Systems at South-East Asia University (Graduating 2028), with a strong background in management and hands-on experience in data-related projects.
+🌱 Currently studying B.B.A. in Digital Business Information Systems at South-East Asia University, with a strong background in management and hands-on experience in data-related projects.
 
 ---
 
@@ -39,7 +39,6 @@ Here are a few project ideas and areas I'm exploring (some coming soon!):
 - 📈 Sales Dashboard with Power BI & Python
 - 🎮 Rock–Paper–Scissors Game with R
 - 📊 Data Cleaning & Visualization Projects using Kaggle datasets
-- 📁 Automated File Organizer using Python + Tkinter GUI
 
 Feel free to explore my repositories!
 
@@ -62,8 +61,6 @@ Feel free to explore my repositories!
 
 - 📧 [Email](mailto:thodsaphol.cha@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
-- 🌐 [myportfolio](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
-
 ---
 
 > "Every line of data tells a story. I'm here to uncover it."
