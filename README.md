@@ -36,7 +36,8 @@
 
 Here are a few project ideas and areas I'm exploring (some coming soon!):
 
-- 📈 Sales Dashboard with Power BI & Python
+- 📈 Sales Dashboard with Power BI
+- 🛒 Superstore_Sales_Analysis
 - 🎮 Rock–Paper–Scissors Game with R
 - 📊 Data Cleaning & Visualization Projects using Kaggle datasets
 
